@@ -164,7 +164,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/syed-hussain-5206332a4/)}
+[![linkedin]([(https://www.linkedin.com/in/syed-hussain-5206332a4/)}
 
 ## Demo
 
